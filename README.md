@@ -1,2 +1,2 @@
-# Cozy Central
+##What is Cozy Central?
 
